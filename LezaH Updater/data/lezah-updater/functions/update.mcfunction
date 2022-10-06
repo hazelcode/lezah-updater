@@ -1,0 +1,2 @@
+tellraw @a [{"text": "Actualizando LezaH Datapack ","color": "aqua"},{"text": "[","color": "blue"},{"score":{"objective":"s","name":"#Version"},"color": "aqua"},{"text": "]","color": "blue"}]
+execute if score #Version lzh-up.update matches 1
