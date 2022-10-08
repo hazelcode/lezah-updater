@@ -1,0 +1,2 @@
+execute unless score #Update lzh-up.update matches 0 unless score #Udpated lzh-up.updated matches 1 run title @a actionbar {"text":"R E C A R G A   P A R A   A C T U A L I Z A R","color":"yellow"}
+function lezah-updater:updater/tick

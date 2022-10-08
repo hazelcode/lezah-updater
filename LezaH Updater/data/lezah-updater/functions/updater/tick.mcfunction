@@ -1,0 +1,1 @@
+execute as @a at @a run function lezah-updater:updater/update1main

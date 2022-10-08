@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:player",
+      "equipment": {
+        "mainhand": {
+          "tag": "steveapi:swords",
+          "nbt": "{AttributeModifiers:[{Slot:\"mainhand\",AttributeName:\"minecraft:generic.attack_damage\",Name:\"minecraft:generic.attack_damage\",Amount:8,Operation:0,UUID:[I; 1,1,1,1]},{Slot:\"mainhand\",AttributeName:\"minecraft:generic.attack_speed\",Name:\"minecraft:generic.attack_speed\",Amount:1.3,Operation:0,UUID:[I; 1,1,1,1]}]}"
+        }
+      }
+    }
+  }
+  
